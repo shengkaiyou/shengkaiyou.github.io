@@ -5,10 +5,11 @@ body {
 }
 .jumbotron {
 	text-align: center;
+	background-image: url('../../image/ysk.jpg');
 	
 }
 
-.container{background-image: url('../../image/ysk.jpg');
+
 
 }
 .btn-lg {
